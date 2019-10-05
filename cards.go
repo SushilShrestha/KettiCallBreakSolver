@@ -99,8 +99,5 @@ func main() {
 	totalCards = shuffleCards(totalCards)
 	totalCards = shuffleCards(totalCards)
 	printCards(totalCards)
-
-
-
 }
 
